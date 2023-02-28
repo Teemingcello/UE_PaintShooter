@@ -1,0 +1,1324 @@
+﻿Log file open, 01/09/23 15:43:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=12220)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE_PaintShooter
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\UE_PaintShooter.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2364] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 3700X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="d4d1c4194f408cd5b607798e1b84abde"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.243496
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-DB5D7E424CBFD9F868125D9E42ECD785
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin LiveLink
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2364] (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.09-06.43.26:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.09-06.43.26:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.09-06.43.26:961][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.09-06.43.26:966][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.09-06.43.26:990][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.09-06.43.26:991][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.09-06.43.26:991][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.01.09-06.43.26:991][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.09-06.43.26:991][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.01.09-06.43.26:991][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     DeviceId    : 2184
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     SubSysId    : 37921462
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2023.01.09-06.43.26:992][  0]LogD3D11RHI:     AdapterLuid : 0 44272
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660' (Feature Level 11_1)
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:       5991/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     Revision    : 0000
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2023.01.09-06.43.27:091][  0]LogD3D11RHI:     AdapterLuid : 0 51390
+[2023.01.09-06.43.27:092][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.01.09-06.43.27:092][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.09-06.43.27:092][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.09-06.43.27:092][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2023.01.09-06.43.27:092][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.09-06.43.27:093][  0]LogD3D11RHI:     DeviceId    : 2184
+[2023.01.09-06.43.27:093][  0]LogD3D11RHI:     SubSysId    : 37921462
+[2023.01.09-06.43.27:093][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.09-06.43.27:093][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2023.01.09-06.43.27:093][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.09-06.43.27:093][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2023.01.09-06.43.27:093][  0]LogD3D11RHI:     AdapterLuid : 0 44272
+[2023.01.09-06.43.27:093][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.09-06.43.27:093][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.09-06.43.27:093][  0]LogHAL: Display: Platform has ~ 16 GB [17111560192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.09-06.43.27:093][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.09-06.43.27:093][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.09-06.43.27:093][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.09-06.43.27:094][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.09-06.43.27:094][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.09-06.43.27:095][  0]LogInit: Computer: DESKTOP-OI347SU
+[2023.01.09-06.43.27:095][  0]LogInit: User: STL
+[2023.01.09-06.43.27:095][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.09-06.43.27:095][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.09-06.43.27:095][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.01.09-06.43.27:095][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.09-06.43.27:095][  0]LogMemory: Process Physical Memory: 270.11 MB used, 276.98 MB peak
+[2023.01.09-06.43.27:095][  0]LogMemory: Process Virtual Memory: 239.83 MB used, 239.83 MB peak
+[2023.01.09-06.43.27:095][  0]LogMemory: Physical Memory: 3123.45 MB used,  13195.40 MB free, 16318.86 MB total
+[2023.01.09-06.43.27:095][  0]LogMemory: Virtual Memory: 6597.74 MB used,  14190.00 MB free, 20787.74 MB total
+[2023.01.09-06.43.27:095][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.09-06.43.27:100][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.09-06.43.27:122][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.09-06.43.27:124][  0]LogInit: Using OS detected language (ko-KR).
+[2023.01.09-06.43.27:124][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.01.09-06.43.27:137][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2023.01.09-06.43.27:236][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.09-06.43.27:259][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.09-06.43.27:260][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.01.09-06.43.27:260][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.01.09-06.43.27:284][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.09-06.43.27:284][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.09-06.43.27:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.09-06.43.27:485][  0]LogD3D11RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.09-06.43.27:485][  0]LogWindows: Attached monitors:
+[2023.01.09-06.43.27:485][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.09-06.43.27:485][  0]LogWindows: Found 1 attached monitors.
+[2023.01.09-06.43.27:485][  0]LogWindows: EnumDisplayDevices:
+[2023.01.09-06.43.27:485][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.09-06.43.27:485][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.09-06.43.27:485][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.09-06.43.27:485][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.09-06.43.27:485][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.09-06.43.27:485][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2023.01.09-06.43.27:485][  0]LogD3D11RHI:   Driver Version: 517.40 (internal:31.0.15.1740, unified:517.40)
+[2023.01.09-06.43.27:485][  0]LogD3D11RHI:      Driver Date: 9-12-2022
+[2023.01.09-06.43.27:486][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     DeviceId    : 2184
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     SubSysId    : 37921462
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     SharedSystemMemory : 8555780096 bytes
+[2023.01.09-06.43.27:486][  0]LogD3D11RHI:     AdapterLuid : 0 44272
+[2023.01.09-06.43.27:549][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.09-06.43.27:549][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.09-06.43.27:549][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.01.09-06.43.27:549][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.09-06.43.27:584][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.09-06.43.27:608][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.09-06.43.27:616][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/UE_PaintShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Intermediate/TurnkeyReport_0.log" -log="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Intermediate/TurnkeyLog_0.log" -project="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/UE_PaintShooter.uproject"  -platform=all'
+[2023.01.09-06.43.27:616][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/UE_PaintShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Intermediate/TurnkeyReport_0.log" -log="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Intermediate/TurnkeyLog_0.log" -project="C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/UE_PaintShooter.uproject"  -platform=all" ]
+[2023.01.09-06.43.27:638][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.09-06.43.27:652][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.09-06.43.27:652][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.09-06.43.27:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.09-06.43.27:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.09-06.43.27:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.09-06.43.27:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.09-06.43.27:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.09-06.43.27:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.09-06.43.27:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.09-06.43.27:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.09-06.43.27:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.09-06.43.27:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.09-06.43.27:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.09-06.43.27:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.09-06.43.27:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.09-06.43.27:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.09-06.43.27:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.09-06.43.27:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.09-06.43.27:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.09-06.43.27:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.09-06.43.27:719][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.09-06.43.27:731][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.09-06.43.27:733][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.09-06.43.27:734][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.09-06.43.27:734][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.09-06.43.27:734][  0]LogTargetPlatformManager:   PCM
+[2023.01.09-06.43.27:736][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.09-06.43.27:736][  0]LogTargetPlatformManager:   BINKA
+[2023.01.09-06.43.27:736][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.09-06.43.27:736][  0]LogTargetPlatformManager:   OGG
+[2023.01.09-06.43.27:736][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.09-06.43.27:736][  0]LogTargetPlatformManager:   OPUS
+[2023.01.09-06.43.27:807][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.09-06.43.27:813][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.09-06.43.27:818][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.09-06.43.27:818][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.09-06.43.27:818][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.09-06.43.27:818][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.09-06.43.27:818][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.09-06.43.27:818][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.09-06.43.27:818][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.09-06.43.27:818][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.09-06.43.27:820][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.09-06.43.27:820][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.09-06.43.27:821][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.09-06.43.27:821][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.09-06.43.27:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.09-06.43.27:825][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.09-06.43.27:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.09-06.43.27:825][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.09-06.43.27:846][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.09-06.43.27:847][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.09-06.43.27:847][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.09-06.43.27:858][  0]LogDerivedDataCache: Speed tests for C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.09-06.43.27:858][  0]LogDerivedDataCache: Display: Performance to C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=209.38MBs, RandomWriteSpeed=174.01MBs. Assigned SpeedClass 'Local'
+[2023.01.09-06.43.27:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.09-06.43.27:860][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.09-06.43.27:860][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.09-06.43.27:866][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.09-06.43.27:866][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.09-06.43.27:870][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Intermediate/Shaders/WorkingDirectory/12020/).
+[2023.01.09-06.43.27:871][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/STL/AppData/Local/Temp/UnrealShaderWorkingDir/A8E98B5449A7C901AE65D4AFA23CA2B7/'.
+[2023.01.09-06.43.27:871][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.09-06.43.27:871][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.09-06.43.29:143][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.09-06.43.29:143][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.09-06.43.29:145][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.09-06.43.29:181][  0]LogAssetRegistry: FAssetRegistry took 0.0143 seconds to start up
+[2023.01.09-06.43.29:186][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.09-06.43.29:503][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.09-06.43.29:506][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.09-06.43.29:868][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.09-06.43.29:868][  0]LogDeviceProfileManager: Active device profile: [00000AA98D34EA80][00000AA9859F0000 50] WindowsEditor
+[2023.01.09-06.43.29:868][  0]LogDeviceProfileManager: Profiles: [00000AA98D34E540][00000AA98593A000 50] Windows, [00000AA98D34EA80][00000AA9859F0000 50] WindowsEditor, [00000AA98D34E1C0][00000AA974A7A000 50] WindowsServer, [00000AA98D34BEC0][00000AA9859A2800 50] WindowsClient, [00000AA98D34BD00][00000AA980AD7800 50] IOS, [00000AA98D34DC80][00000AA98D6F0000 50] iPadAir2, [00000AA98D34F340][00000AA98D6F7800 50] IPadPro, [00000AA98D34F6C0][00000AA98D6F5000 50] iPadAir3, [00000AA98D34E000][00000AA98D6FA000 50] iPadAir4, [00000AA98D34B7C0][00000AA98D6FC800 50] iPadMini4, [00000AA98D34BB40][00000AA9859A5000 50] iPadMini5, [00000AA98D34C400][00000AA98D710000 50] iPadMini6, [00000AA98D7C1F80][00000AA98D71A000 50] iPhone6S, [00000AA98D7C2300][00000AA98D717800 50] iPhone7, [00000AA98D7C2680][00000AA98D715000 50] iPodTouch7, [00000AA98D7C24C0][00000AA98D71C800 50] iPhone6SPlus, [00000AA98D7C1DC0][00000AA98D6F2800 50] iPhone7Plus, [00000AA98D7C1C00][00000AA98D740000 50] iPhoneSE, [00000AA98D7C1A40][00000AA98D745000 50] iPhone8, [00000AA98D7C1880][00000AA98D747800 50] iPhone8Plus, [00000AA98D7C2F40][00000AA98D74A000 50] iPhoneX, [00000AA98D7C0FC0][00000AA98D74C800 50] iPhoneXS, [00000AA98D7C2A00][00000AA98D712800 50] iPhoneXSMax, [00000AA98D7C3100][00000AA98D750000 50] iPhoneXR, [00000AA98D7C16C0][00000AA98D755000 50] iPhone11, [00000AA98D7C01C0][00000AA98D757800 50] iPhone11Pro, [00000AA98D7C32C0][00000AA98D75A000 50] iPhone11ProMax, [00000AA98D7C0700][00000AA98D75C800 50] iPhoneSE2, [00000AA98D7C3480][00000AA98D742800 50] iPhone12Mini, [00000AA98D7C3F00][00000AA98D7D0000 50] iPhone12, [00000AA98D7C2D80][00000AA98D7D5000 50] iPhone12Pro, [00000AA98D7C39C0][00000AA98D7D7800 50] iPhone12ProMax, [00000AA98D7C40C0][00000AA98D7DA000 50] iPhone13Mini, [00000AA98D7C0380][00000AA98D7DC800 50] iPhone13, [00000AA98D7C0E00][00000AA98D752800 50] iPhone13Pro, [00000AA98D7C4280][00000AA98D7E0000 50] iPhone13ProMax, [00000AA98D7C2840][00000AA98D7E5000 50] iPadPro105, [00000AA98D7C4440][00000AA98D7E7800 50] iPadPro129, [00000AA98D7C4EC0][00000AA98D7EA000 50] iPadPro97, [00000AA98D7C3D40][00000AA98D7EC800 50] iPadPro2_129, [00000AA98D7C4980][00000AA98D7D2800 50] iPad5, [00000AA98D7C5080][00000AA98D7F0000 50] iPad6, [00000AA98D7C0A80][00000AA98D7F5000 50] iPad7, [00000AA98D7C2140][00000AA98D7F7800 50] iPad8, [00000AA98D7C5240][00000AA98D7FA000 50] iPad9, [00000AA98D7C3800][00000AA98D7FC800 50] iPadPro11, [00000AA98D7C5400][00000AA98D7E2800 50] iPadPro2_11, [00000AA98D7C5E80][00000AA98D770000 50] iPadPro3_11, [00000AA98D7C4D00][00000AA98D775000 50] iPadPro3_129, [00000AA98D7C5940][00000AA98D777800 50] iPadPro4_129, [00000AA98D7C6040][00000AA98D77A000 50] iPadPro5_129, [00000AA98D7C08C0][00000AA98D77C800 50] AppleTV, [00000AA98D7C1500][00000AA98D7F2800 50] AppleTV4K, [00000AA98D7C6200][00000AA98D780000 50] TVOS, [00000AA98D7C8C00][00000AA98D787800 50] Mac, [00000AA98D7C8F80][00000AA98D785000 50] MacEditor, [00000AA98D7C8500][00000AA98D78A000 50] MacClient, [00000AA98D7C6740][00000AA98D78C800 50] MacServer, [00000AA98D7C9140][00000AA98D7B0000 50] Linux, [00000AA98D7C4600][00000AA98D7B2800 50] LinuxEditor, [00000AA98D7C7380][00000AA98D7B7800 50] LinuxArm64Editor, [00000AA98D7C9A00][00000AA98D7BA000 50] LinuxArm64, [00000AA98D7C7C40][00000AA98D7BC800 50] LinuxClient, [00000AA98D7C8880][00000AA98D772800 50] LinuxArm64Client, [00000AA98D7C86C0][00000AA98D7B5000 50] LinuxServer, [00000AA98D7C94C0][00000AA98D790000 50] LinuxArm64Server, [00000AA98D7C7E00][00000AA98D795000 50] Android, [00000AA98D7C5780][00000AA98D797800 50] Android_Preview_OpenGL, [00000AA98D7C7700][00000AA98D79A000 50] Android_Preview_Vulkan, [00000AA98D7C7000][00000AA98D79C800 50] Android_Low, [00000AA98D7C9BC0][00000AA98D782800 50] Android_Mid, [00000AA98D7C3B80][00000AA98D7A0000 50] Android_High, [00000AA98D7C0C40][00000AA98D7A5000 50] Android_Default, [00000AA98D7C55C0][00000AA98D7A7800 50] Android_Adreno4xx, [00000AA98D7C9680][00000AA98D7AA000 50] Android_Adreno5xx_Low, [00000AA98D7C3640][00000AA98D7AC800 50] Android_Adreno5xx, [00000AA98D7C7FC0][00000AA98D792800 50] Android_Adreno6xx, [00000AA98D7C71C0][00000AA98F190000 50] Android_Adreno6xx_Vulkan, [00000AA98D7C9840][00000AA98F195000 50] Android_Adreno7xx, [00000AA98D7C6580][00000AA98F197800 50] Android_Adreno7xx_Vulkan, [00000AA98D7C8A40][00000AA98F19A000 50] Android_Mali_T6xx, [00000AA98D7C0540][00000AA98F19C800 50] Android_Mali_T7xx, [00000AA98D7C7A80][00000AA98D7A2800 50] Android_Mali_T8xx, [00000AA98D7C9D80][00000AA98F1A0000 50] Android_Mali_G71, [00000AA98D7C8340][00000AA98F1A5000 50] Android_Mali_G72, [00000AA98D7C0000][00000AA98F1A7800 50] Android_Mali_G72_Vulkan, [00000AA98D7C9F40][00000AA98F1AA000 50] Android_Mali_G76, [00000AA98D7C8180][00000AA98F1AC800 50] Android_Mali_G76_Vulkan, [00000AA98D7C9300][00000AA98F192800 50] Android_Mali_G77, [00000AA98D7CA100][00000AA98F1B0000 50] Android_Mali_G77_Vulkan, [00000AA98D7C6AC0][00000AA98F1B5000 50] Android_Mali_G78, [00000AA98D7CA2C0][00000AA98F1B7800 50] Android_Mali_G78_Vulkan, [00000AA98D7CAD40][00000AA98F1BA000 50] Android_Mali_G710, [00000AA98D7C78C0][00000AA98F1BC800 50] Android_Mali_G710_Vulkan, [00000AA98D7CA800][00000AA98F1A2800 50] Android_Xclipse_920, [00000AA98D7CAF00][00000AA98F1C0000 50] Android_Xclipse_920_Vulkan, [00000AA98D7C6C80][00000AA98F1C5000 50] Android_Vulkan_SM5, [00000AA98D7C63C0][00000AA98F1C7800 50] Android_PowerVR_G6xxx, [00000AA98D7CB0C0][00000AA98F1CA000 50] Android_PowerVR_GT7xxx, [00000AA98D7C7540][00000AA98F1CC800 50] Android_PowerVR_GE8xxx, [00000AA98D7CBD00][00000AA98F1B2800 50] Android_PowerVR_GM9xxx, [00000AA98D7C2BC0][00000AA98F1D0000 50] Android_PowerVR_GM9xxx_Vulkan, [00000AA98D7CB7C0][00000AA98F1D5000 50] Android_TegraK1, [00000AA98D7CBEC0][00000AA98F1D7800 50] Android_Unknown_Vulkan, [00000AA98D7CB280][00000AA98F1DA000 50] Oculus_Quest, [00000AA98D7CAB80][00000AA98F1DC800 50] Oculus_Quest2, [00000AA98D7CC080][00000AA98F1C2800 50] HoloLens, 
+[2023.01.09-06.43.29:868][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.09-06.43.29:873][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.09-06.43.29:873][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.09-06.43.29:873][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.09-06.43.29:873][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.09-06.43.29:873][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.09-06.43.29:913][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.09-06.43.30:139][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.09-06.43.30:139][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.09-06.43.30:139][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.09-06.43.30:139][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.09-06.43.30:139][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.09-06.43.30:179][  0]LogNetVersion: UE_PaintShooter 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2069700881)
+[2023.01.09-06.43.30:367][  0]LogSlate: Border
+[2023.01.09-06.43.30:367][  0]LogSlate: BreadcrumbButton
+[2023.01.09-06.43.30:367][  0]LogSlate: Default
+[2023.01.09-06.43.30:367][  0]LogSlate: Icons.Save
+[2023.01.09-06.43.30:367][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.09-06.43.30:368][  0]LogSlate: ListView
+[2023.01.09-06.43.30:368][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.09-06.43.30:368][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.09-06.43.30:368][  0]LogSlate: TableView.DarkRow
+[2023.01.09-06.43.30:368][  0]LogSlate: TableView.Row
+[2023.01.09-06.43.30:368][  0]LogSlate: TreeView
+[2023.01.09-06.43.30:673][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.09-06.43.30:714][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.09-06.43.30:714][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.09-06.43.30:870][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.09-06.43.30:870][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.09-06.43.30:870][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.09-06.43.31:423][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6224311640009129A7FB8CA6D44D4A96 | Instance: 7910804D4C52181D6F470085B15E2F8B (DESKTOP-OI347SU-12020).
+[2023.01.09-06.43.31:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.09-06.43.31:513][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.09-06.43.31:534][  0]LogPython: Using Python 3.9.7
+[2023.01.09-06.43.32:456][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.09-06.43.32:468][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.09-06.43.32:476][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.09-06.43.32:480][  0]LogUProjectInfo: Found projects:
+[2023.01.09-06.43.32:935][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.09-06.43.32:984][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.09-06.43.33:006][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.09-06.43.33:006][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.09-06.43.33:121][  0]LogCollectionManager: Loaded 0 collections in 0.002168 seconds
+[2023.01.09-06.43.33:233][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/Collections/' took 0.00s
+[2023.01.09-06.43.33:233][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Developers/STL/Collections/' took 0.00s
+[2023.01.09-06.43.33:233][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Collections/' took 0.00s
+[2023.01.09-06.43.33:537][  0]LogEngine: Initializing Engine...
+[2023.01.09-06.43.33:553][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.09-06.43.33:555][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.01.09-06.43.33:785][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.09-06.43.33:786][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.09-06.43.33:803][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.09-06.43.33:843][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.09-06.43.33:848][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.09-06.43.33:874][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.09-06.43.33:874][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.09-06.43.33:874][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.09-06.43.33:875][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.09-06.43.33:875][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.09-06.43.33:876][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.09-06.43.33:876][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.09-06.43.33:876][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.09-06.43.33:876][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.09-06.43.33:876][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.09-06.43.33:876][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.09-06.43.33:876][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.09-06.43.33:876][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.09-06.43.33:877][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.09-06.43.33:877][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.09-06.43.33:877][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.09-06.43.33:886][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.09-06.43.33:924][  0]LogAudioMixer: Display: Using Audio Hardware Device TGL TW5511(NVIDIA High Definition Audio)
+[2023.01.09-06.43.33:925][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.09-06.43.33:926][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.09-06.43.33:927][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.09-06.43.33:928][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.09-06.43.33:928][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.09-06.43.33:929][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.09-06.43.33:929][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.09-06.43.33:929][  0]LogInit: FAudioDevice initialized.
+[2023.01.09-06.43.33:929][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.09-06.43.33:929][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.09-06.43.33:929][  0]LogInit: Texture streaming: Enabled
+[2023.01.09-06.43.33:963][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.09-06.43.33:972][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.09-06.43.33:998][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.09-06.43.34:006][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.09-06.43.34:006][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.09-06.43.34:986][  0]LogLiveCoding: Display: First instance in process group "UE_UE_PaintShooter_0x1f1f3f11", spawning console
+[2023.01.09-06.43.34:986][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.09-06.43.34:986][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.09-06.43.35:013][  0]LogInit: Transaction tracking system initialized
+[2023.01.09-06.43.35:106][  0]BlueprintLog: New page: 에디터 로드
+[2023.01.09-06.43.35:344][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.01.09-06.43.35:404][  0]TimingProfiler: Initialize
+[2023.01.09-06.43.35:405][  0]TimingProfiler: OnSessionChanged
+[2023.01.09-06.43.35:405][  0]LoadingProfiler: Initialize
+[2023.01.09-06.43.35:405][  0]LoadingProfiler: OnSessionChanged
+[2023.01.09-06.43.35:406][  0]NetworkingProfiler: Initialize
+[2023.01.09-06.43.35:407][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.09-06.43.35:407][  0]MemoryProfiler: Initialize
+[2023.01.09-06.43.35:407][  0]MemoryProfiler: OnSessionChanged
+[2023.01.09-06.43.36:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/' took 0.01s
+[2023.01.09-06.43.36:126][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.09-06.43.36:271][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.09-06.43.36:275][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.09-06.43.36:388][  0]LogSlate: Took 0.003336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.01.09-06.43.36:388][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.09-06.43.38:805][  0]LogSlate: Window '패키지 복원' being destroyed
+[2023.01.09-06.43.38:814][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.384
+[2023.01.09-06.43.38:816][  0]Cmd: MAP LOAD FILE="../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.09-06.43.38:816][  0]LightingResults: New page: 라이팅 빌드
+[2023.01.09-06.43.38:827][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-06.43.38:828][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-06.43.38:828][  0]MapCheck: New page: 맵 체크
+[2023.01.09-06.43.38:828][  0]LightingResults: New page: 라이팅 빌드
+[2023.01.09-06.43.38:838][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.09-06.43.38:845][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.09-06.43.38:873][  0]LogLinker: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.01.09-06.43.38:873][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Mannequin/BP_Quinn'
+[2023.01.09-06.43.38:886][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] 사용 중인  As BP Quinn  핀은 더 이상  Get  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2023.01.09-06.43.38:886][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] 사용 중인  As BP Quinn  핀은 더 이상  설정  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2023.01.09-06.43.38:886][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.01.09-06.43.38:886][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] 사용 중인  As BP Quinn  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2023.01.09-06.43.38:886][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.01.09-06.43.38:889][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] 사용 중인  As BP Quinn  핀은 더 이상  Get  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2023.01.09-06.43.38:889][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] 사용 중인  As BP Quinn  핀은 더 이상  설정  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2023.01.09-06.43.38:889][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] Object  및  Return Value  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.01.09-06.43.38:889][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] 사용 중인  As BP Quinn  핀은 더 이상  잘못된 형변환 노드입니다.  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2023.01.09-06.43.38:889][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\Mannequin\ABP_Quinn.uasset: [Compiler] Return Value  및  Object  핀을 연결할 수 없습니다: 이 형변환에 유효하지 않은 타깃 타입이 있습니다 (리디렉터 없이 삭제된 클래스였을 수 있습니다).
+[2023.01.09-06.43.39:300][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.01.09-06.43.39:311][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.09-06.43.39:312][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.01.09-06.43.39:314][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.09-06.43.39:314][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.09-06.43.39:463][  0]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.43.39:465][  0]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.43.39:465][  0]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.43.39:469][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.43.39:469][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.43.39:470][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.43.39:603][  0]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.43.39:604][  0]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.43.39:609][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.43.39:609][  0]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.43.39:641][  0]LogWorldPartition: Display: WorldPartition initialize took 326 ms
+[2023.01.09-06.43.39:654][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.09-06.43.39:665][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.09-06.43.39:665][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.09-06.43.39:666][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.558ms.
+[2023.01.09-06.43.39:666][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.851
+[2023.01.09-06.43.39:694][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.264
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: ================================================
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.09-06.43.39:694][  0]LogShaderCompilers: Display: ================================================
+[2023.01.09-06.43.39:818][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.01.09-06.43.39:899][  0]LogUObjectGlobals: Warning: 'Class 없음.Physics' 오브젝트를 찾는 데 실패했습니다.
+[2023.01.09-06.43.40:321][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-06.43.40:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-06.43.40:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-06.43.40:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-06.43.40:372][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:372][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:375][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:375][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:375][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:375][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:376][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:376][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:378][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:378][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:379][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:379][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:380][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:380][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:381][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:381][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:382][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:382][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:382][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.09-06.43.40:382][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-06.43.40:383][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.09-06.43.40:647][  0]LogSlate: Took 0.003206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.01.09-06.43.40:648][  0]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.09-06.43.40:649][  0]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.09-06.43.40:650][  0]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.09-06.43.40:653][  0]LogSlate: Took 0.003039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.01.09-06.43.40:677][  0]LogViewport: Scene viewport resized to 1319x534, mode Windowed.
+[2023.01.09-06.43.40:706][  0]LogSlate: Took 0.000514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.09-06.43.40:767][  0]LogStall: Startup...
+[2023.01.09-06.43.40:769][  0]LogStall: Startup complete.
+[2023.01.09-06.43.40:786][  0]LogLoad: (Engine Initialization) Total time: 15.36 seconds
+[2023.01.09-06.43.40:786][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.09-06.43.41:116][  0]LogSkeletalMesh: Display: 스켈레탈 메시가 준비 되기를 기다리는 중 0/1 (SKM_Manny)...
+[2023.01.09-06.43.41:206][  0]LogAssetRegistry: Asset discovery search completed in 12.0273 seconds
+[2023.01.09-06.43.41:213][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.09-06.43.41:215][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.09-06.43.49:962][959]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Base' 브러시를 찾을 수 없습니다.'
+[2023.01.09-06.43.49:962][959]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Mask' 브러시를 찾을 수 없습니다.'
+[2023.01.09-06.44.02:356][143]LogSlate: Window '메시지' being destroyed
+[2023.01.09-06.44.02:359][143]Message dialog closed, result: Yes, title: 메시지, text: 하나 이상의 클래스 디폴트 오브젝트에서 참조된 에셋은 다음과 같습니다. 
+
+BP_FirstPersonGameMode (프로젝트 세팅 소프트 레퍼런스)
+
+이름 변경을 계속하면 코드 또는 프로젝트 세팅에서 레퍼런스를 고쳐서 변경해야 할 수 있습니다. 그렇지 않으면 쿠킹/패키징된 빌드에서 에셋이 누락될 수 있습니다. 계속할까요?
+[2023.01.09-06.44.02:368][143]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.01.09-06.44.02:368][143]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.BP_Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.01.09-06.44.02:368][143]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.SKEL_BP_Enemy_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.01.09-06.44.02:368][143]LogMetaData: Removing '/Game/Blueprints/BP_Enemy.SKEL_BP_Enemy_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Enemy.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:OnFireGun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:OnFireAutomaticGun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:OnStopAutomaticGun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:Detection.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:InputLeaning.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:ActiveLeaning.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:AutoRotation.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter:OnRefillAmmo.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_3' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_4' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_5' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InpAxisEvt_Leaning_K2Node_InputAxisEvent_6' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:BndEvt__BP_FirstPersonCharacter_CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:Select Weapon 1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:Select Weapon 2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:InputLeaning' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C:AutoRotation' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.SKEL_BP_RifleCharacter_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter_C:InputLeaning' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:369][143]LogMetaData: Removing '/Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter_C:AutoRotation' ref from Metadata '/Game/FirstPerson/Blueprints/BP_RifleCharacter.PackageMetaData'
+[2023.01.09-06.44.02:373][143]LogMetaData: Removing '/Game/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.PackageMetaData'
+[2023.01.09-06.44.02:373][143]LogMetaData: Removing '/Game/Blueprints/BP_FirstPersonGameMode.SKEL_BP_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.PackageMetaData'
+[2023.01.09-06.44.02:373][143]LogMetaData: Removing '/Game/Blueprints/BP_FirstPersonGameMode.SKEL_BP_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.BP_Complete:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.BP_Complete_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.BP_Complete:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.BP_Complete:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.BP_Complete:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.SKEL_BP_Complete_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.SKEL_BP_Complete_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.SKEL_BP_Complete_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.SKEL_BP_Complete_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:375][143]LogMetaData: Removing '/Game/Blueprints/BP_Complete.SKEL_BP_Complete_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Complete.PackageMetaData'
+[2023.01.09-06.44.02:437][143]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.004312 seconds
+[2023.01.09-06.44.02:440][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/3V/RJCC5F7YEG7E51NCB4FGTC
+[2023.01.09-06.44.02:441][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/RJCC5F7YEG7E51NCB4FGTC440901F54A58D145FF00018604D5C4A4.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/3V/RJCC5F7YEG7E51NCB4FGTC.uasset'
+[2023.01.09-06.44.02:443][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8I/OG0OI12E6QT4VFJTKT16NO
+[2023.01.09-06.44.02:443][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/OG0OI12E6QT4VFJTKT16NOAD9F62134DE3B62DDD1F1787F2A89B63.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8I/OG0OI12E6QT4VFJTKT16NO.uasset'
+[2023.01.09-06.44.02:445][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/TF/RN17KD7A58V1ES4NA08SKQ
+[2023.01.09-06.44.02:446][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/RN17KD7A58V1ES4NA08SKQBF11303645CFBB68FE1F5189C26AC3A6.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/TF/RN17KD7A58V1ES4NA08SKQ.uasset'
+[2023.01.09-06.44.02:448][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/8O/2YRJPWJBRG2I29KKBICCFH
+[2023.01.09-06.44.02:448][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/2YRJPWJBRG2I29KKBICCFH895BEB9C46FF4CCF15C928AE96E233E2.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/8O/2YRJPWJBRG2I29KKBICCFH.uasset'
+[2023.01.09-06.44.02:461][143]LogSavePackage: Moving output files for package: /Game/Projectile/SprayPaint/BP_SprayPaint
+[2023.01.09-06.44.02:461][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_SprayPaint27DF90874AFFA1E2CACDD8AB9FDEBCEB.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Projectile/SprayPaint/BP_SprayPaint.uasset'
+[2023.01.09-06.44.02:471][143]LogSavePackage: Moving output files for package: /Game/Projectile/SprayPaint/BP_ShotgunPaint
+[2023.01.09-06.44.02:471][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_ShotgunPaint01434DC646482A5F2BCFBB8B247A7D37.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Projectile/SprayPaint/BP_ShotgunPaint.uasset'
+[2023.01.09-06.44.02:498][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/BP_SprayRifle" FILE="../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/FPWeapon/BP_SprayRifle.uasset" SILENT=true
+[2023.01.09-06.44.02:532][143]LogSavePackage: Moving output files for package: /Game/FPWeapon/BP_SprayRifle
+[2023.01.09-06.44.02:533][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_SprayRifle1E5259544F0CB95AA1B579B194E4284F.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/FPWeapon/BP_SprayRifle.uasset'
+[2023.01.09-06.44.02:555][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPWeapon/BP_BallRifle" FILE="../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/FPWeapon/BP_BallRifle.uasset" SILENT=true
+[2023.01.09-06.44.02:591][143]LogSavePackage: Moving output files for package: /Game/FPWeapon/BP_BallRifle
+[2023.01.09-06.44.02:591][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_BallRifle71C1A38C40E5152A1547579B4D8D6BAF.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/FPWeapon/BP_BallRifle.uasset'
+[2023.01.09-06.44.02:592][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.01.09-06.44.02:594][143]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2023.01.09-06.44.02:594][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_EnemyF76BBEF744FF7F9A3740AFB28EBEEB94.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Blueprints/BP_Enemy.uasset'
+[2023.01.09-06.44.02:672][143]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_RifleCharacter
+[2023.01.09-06.44.02:672][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_RifleCharacter54F72CFC4CDFE7CE2E07E883D1004A21.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Blueprints/BP_RifleCharacter.uasset'
+[2023.01.09-06.44.02:675][143]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FirstPersonGameMode
+[2023.01.09-06.44.02:675][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_FirstPersonGameMode09A7B1BE48143E658F3EADB0226C9E5C.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Blueprints/BP_FirstPersonGameMode.uasset'
+[2023.01.09-06.44.02:676][143]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2023.01.09-06.44.02:677][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_FirstPersonGameMode52C3E76340E6CFDBFEAFAEBEB7980517.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2023.01.09-06.44.02:678][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Complete" FILE="../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Blueprints/BP_Complete.uasset" SILENT=true
+[2023.01.09-06.44.02:682][143]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Complete
+[2023.01.09-06.44.02:682][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BP_Complete679B01CD4649DA1297B127ABEC9C9750.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Blueprints/BP_Complete.uasset'
+[2023.01.09-06.44.02:700][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.09-06.44.02:706][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.09-06.44.02:711][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.09-06.44.05:315][143]LogSlate: Window '메시지' being destroyed
+[2023.01.09-06.44.05:323][143]Message dialog closed, result: Yes, title: 메시지, text: 하나 이상의 클래스 디폴트 오브젝트에서 참조된 에셋은 다음과 같습니다. 
+
+FirstPersonMap (프로젝트 세팅 소프트 레퍼런스)
+
+이름 변경을 계속하면 코드 또는 프로젝트 세팅에서 레퍼런스를 고쳐서 변경해야 할 수 있습니다. 그렇지 않으면 쿠킹/패키징된 빌드에서 에셋이 누락될 수 있습니다. 계속할까요?
+[2023.01.09-06.44.05:421][143]LogMetaData: Removing '/Game/Maps/FirstPersonMap.FirstPersonMap_C' ref from Metadata '/Game/FirstPerson/Maps/FirstPersonMap.PackageMetaData'
+[2023.01.09-06.44.05:421][143]LogMetaData: Removing '/Game/Maps/FirstPersonMap.SKEL_FirstPersonMap_C' ref from Metadata '/Game/FirstPerson/Maps/FirstPersonMap.PackageMetaData'
+[2023.01.09-06.44.05:573][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.09-06.44.05:579][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.09-06.44.05:584][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.09-06.44.06:184][143]LogSavePackage: Moving output files for package: /Game/Maps/FirstPersonMap_BuiltData
+[2023.01.09-06.44.06:184][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/FirstPersonMap_BuiltData647D559348771AAEB82B63ACEF287CFB.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Maps/FirstPersonMap_BuiltData.uasset'
+[2023.01.09-06.44.06:200][143]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 에셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다. 
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/D0/47PXUBWBUXPV95S4OEQ7HH
+/Game/__ExternalObjects__/Maps/FirstPersonMap/8/U2/QFY08NKGA65C1FFKKJWD8Q
+/Game/__ExternalObjects__/Maps/FirstPersonMap/8/OI/6N75N5Q9KODWEA7ABJPWUU
+/Game/__ExternalObjects__/Maps/FirstPersonMap/A/IA/SDCY67ZNSGN405XENIIBEG
+/Game/__ExternalObjects__/Maps/FirstPersonMap/A/VK/7CAB5Z2EVOSAA4JJ3TQS2K
+/Game/__ExternalObjects__/Maps/FirstPersonMap/9/4B/U9QTX8P49RJG90GOQ91CFD
+/Game/__ExternalObjects__/Maps/FirstPersonMap/3/A2/BUCBBXV7TPIQ4FI5ZBRIYN
+/Game/__ExternalObjects__/Maps/FirstPersonMap/A/28/Z5RJU7YQAAPZ214GRAW9M5
+/Game/__ExternalObjects__/Maps/FirstPersonMap/C/X0/5R0HYIYTW9G7NT4K99MM9C
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/FK/HBLP4LAX21RTH4MFF6O0VU
+/Game/__ExternalActors__/Maps/FirstPersonMap/1/RE/VX0AI6CMC4652Z2CJLADUI
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/8Y/EHGLATHR6SJ8N4BBKSKI1H
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/BE/6UQSM6IJPVR55XAZ5WDHT4
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/2A/700DITQW5XKKJ39X3LPS5V
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/8R/55P3KETBXRBLEBDF3DLJNN
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/D8/QVDS4BTVBMBW1O979BUR7O
+/Game/__ExternalActors__/Maps/FirstPersonMap/1/R6/FGQ1ZOOGKCC22OW3L1V80M
+/Game/__ExternalActors__/Maps/FirstPersonMap/A/WN/ZN7465ONWQ3UBMIMVOKR50
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/AL/75Q1TR42LXG7D52LLXWCJJ
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/KD/NHOCM5ASB1B04BKDBXUGL2
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/YA/GCA9IR4G7XX0U0I6AS42X3
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/ID/QADNH8B9KK1B1MWTU23JA9
+/Game/__ExternalActors__/Maps/FirstPersonMap/6/KN/UFYJ7RY0VDB7Z7S8XEXXNX
+/Game/__ExternalActors__/Maps/FirstPersonMap/1/GB/ED1TA7J431H885A888QBAX
+/Game/__ExternalActors__/Maps/FirstPersonMap/4/5V/9NGWTYZO4KCSCUMXUJT9I0
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/BW/38PEA5R3SCQ4DJH92XXEL0
+/Game/__ExternalActors__/Maps/FirstPersonMap/A/PL/KWA7W0DBO08IBOSKCTIMEG
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/BA/FUEW64I9TE22117JBY04T2
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/SY/LJI52ES0Y7UV5FKUVLYMJ6
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/U6/9FC3Z580O8EAS5DTWBBKB0
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/KU/21XH64WKH8B2K6I7F89LQU
+/Game/__ExternalActors__/Maps/FirstPersonMap/4/EM/ZBUMYOAJH6TO0HQJVW2X2M
+/Game/__ExternalActors__/Maps/FirstPersonMap/E/JJ/FYK234SX70BUT2NE0G5G9Y
+/Game/__ExternalActors__/Maps/FirstPersonMap/4/7K/5GEPR53RRN7RY6U6JKIFVB
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/I8/UEV3C8FOOTBWQ4U7WUCQ5Z
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/6B/TU0177PP422NI4GEDFQH3M
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/M4/BT7BLLF1EO8W5WF75CS9GA
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/77/WRP7S22QC0GRWTWLS9LXF4
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/ZD/Q86CPX0C9YED797IWS1DHY
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/8N/NU2ZBWCUBNX5GJVIVSE07J
+/Game/__ExternalActors__/Maps/FirstPersonMap/D/IR/38OWU4P27F23UMKGX99WFG
+/Game/__ExternalActors__/Maps/FirstPersonMap/D/P6/OUV9NOJPJ6DJM0NLDN0KLI
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/26/NYALG7I6EEVAQNHQOWYO0O
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/7H/VXLCHFD8T7T5SML8K9OZ7P
+/Game/__ExternalActors__/Maps/FirstPersonMap/A/L1/077Z4KTIDU3B6NDKJ2N0YM
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/UX/U6GCM69W2NIDJEHY1DQZNS
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/84/R8NF626KASE07HRG3QSW9G
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/FH/N5INMPT2UA00TYEQKBR772
+/Game/__ExternalActors__/Maps/FirstPersonMap/C/0W/IRO3PKHES6JJA6EIF8W7IW
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/V7/97WEQOKQQN5DQITDZMHQWR
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/0N/4GAFXWBBJ1BNWD0E51TBXH
+/Game/__ExternalActors__/Maps/FirstPersonMap/C/MT/ZLKTM96EN5FZVKJ8M1AO7Q
+/Game/__ExternalActors__/Maps/FirstPersonMap/D/KM/LY6Y0E7MLIMIG4873CGR65
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/RW/PG2ZMEX3WNNKNDZO7PWYF2
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/CE/C3X3JN568KX4YNSO6XPXQO
+/Game/__ExternalActors__/Maps/FirstPersonMap/6/ER/Q1L9UXCS7YRHAE6RNDX3IA
+/Game/__ExternalActors__/Maps/FirstPersonMap/6/64/YTSZXZGL8AYOX4FS2K9WB4
+[2023.01.09-06.44.06:201][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/D0/47PXUBWBUXPV95S4OEQ7HH
+[2023.01.09-06.44.06:201][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/47PXUBWBUXPV95S4OEQ7HH2E8BDB3C43EEB68B4EDB408A8EF71559.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/B/D0/47PXUBWBUXPV95S4OEQ7HH.uasset'
+[2023.01.09-06.44.06:203][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/8/U2/QFY08NKGA65C1FFKKJWD8Q
+[2023.01.09-06.44.06:203][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/QFY08NKGA65C1FFKKJWD8Q1100D74C4D6F5B4B101396BF96628191.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/8/U2/QFY08NKGA65C1FFKKJWD8Q.uasset'
+[2023.01.09-06.44.06:205][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/8/OI/6N75N5Q9KODWEA7ABJPWUU
+[2023.01.09-06.44.06:205][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/6N75N5Q9KODWEA7ABJPWUU66D732134A509B9BBEE314BF634DF905.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/8/OI/6N75N5Q9KODWEA7ABJPWUU.uasset'
+[2023.01.09-06.44.06:206][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/A/IA/SDCY67ZNSGN405XENIIBEG
+[2023.01.09-06.44.06:206][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/SDCY67ZNSGN405XENIIBEGF626A27E475E040C34C3DFBEB78BBCB3.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/A/IA/SDCY67ZNSGN405XENIIBEG.uasset'
+[2023.01.09-06.44.06:209][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/A/VK/7CAB5Z2EVOSAA4JJ3TQS2K
+[2023.01.09-06.44.06:209][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/7CAB5Z2EVOSAA4JJ3TQS2KF2CF62A44395523ED22134A5B021D2A5.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/A/VK/7CAB5Z2EVOSAA4JJ3TQS2K.uasset'
+[2023.01.09-06.44.06:210][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/9/4B/U9QTX8P49RJG90GOQ91CFD
+[2023.01.09-06.44.06:210][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/U9QTX8P49RJG90GOQ91CFDE91EFD994DDDD144A4820895BD4A0B56.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/9/4B/U9QTX8P49RJG90GOQ91CFD.uasset'
+[2023.01.09-06.44.06:211][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/3/A2/BUCBBXV7TPIQ4FI5ZBRIYN
+[2023.01.09-06.44.06:211][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BUCBBXV7TPIQ4FI5ZBRIYN7E67F419497C9DEC55F9548ACB763DC8.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/3/A2/BUCBBXV7TPIQ4FI5ZBRIYN.uasset'
+[2023.01.09-06.44.06:213][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/A/28/Z5RJU7YQAAPZ214GRAW9M5
+[2023.01.09-06.44.06:213][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/Z5RJU7YQAAPZ214GRAW9M50696AC10464E87E4FF7ACC986CBAC6F0.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/A/28/Z5RJU7YQAAPZ214GRAW9M5.uasset'
+[2023.01.09-06.44.06:214][143]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/FirstPersonMap/C/X0/5R0HYIYTW9G7NT4K99MM9C
+[2023.01.09-06.44.06:214][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/5R0HYIYTW9G7NT4K99MM9C17A9722B4BFBCA768F32E791F6D281E3.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalObjects__/Maps/FirstPersonMap/C/X0/5R0HYIYTW9G7NT4K99MM9C.uasset'
+[2023.01.09-06.44.06:215][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/FK/HBLP4LAX21RTH4MFF6O0VU
+[2023.01.09-06.44.06:215][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/HBLP4LAX21RTH4MFF6O0VU31C068FD4DB9E50329BAE98C81E10926.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/7/FK/HBLP4LAX21RTH4MFF6O0VU.uasset'
+[2023.01.09-06.44.06:217][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/1/RE/VX0AI6CMC4652Z2CJLADUI
+[2023.01.09-06.44.06:217][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/VX0AI6CMC4652Z2CJLADUI1412C5EB4D2101F04506BA849E85D5C1.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/1/RE/VX0AI6CMC4652Z2CJLADUI.uasset'
+[2023.01.09-06.44.06:219][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/9/8Y/EHGLATHR6SJ8N4BBKSKI1H
+[2023.01.09-06.44.06:219][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/EHGLATHR6SJ8N4BBKSKI1HD5CEE6D74F315BCDA4CCDAA8FCEC1712.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/9/8Y/EHGLATHR6SJ8N4BBKSKI1H.uasset'
+[2023.01.09-06.44.06:220][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/BE/6UQSM6IJPVR55XAZ5WDHT4
+[2023.01.09-06.44.06:220][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/6UQSM6IJPVR55XAZ5WDHT4761ADA104194409F5F54D8BD75397C71.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/5/BE/6UQSM6IJPVR55XAZ5WDHT4.uasset'
+[2023.01.09-06.44.06:222][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/9/2A/700DITQW5XKKJ39X3LPS5V
+[2023.01.09-06.44.06:222][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/700DITQW5XKKJ39X3LPS5V68C3BC4246EA6B41BFF49393B1C7B0BE.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/9/2A/700DITQW5XKKJ39X3LPS5V.uasset'
+[2023.01.09-06.44.06:224][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/8R/55P3KETBXRBLEBDF3DLJNN
+[2023.01.09-06.44.06:224][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/55P3KETBXRBLEBDF3DLJNN5A6D81704D38B650594487B9ACC214EE.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/B/8R/55P3KETBXRBLEBDF3DLJNN.uasset'
+[2023.01.09-06.44.06:225][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/D8/QVDS4BTVBMBW1O979BUR7O
+[2023.01.09-06.44.06:225][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/QVDS4BTVBMBW1O979BUR7O8DA0E5584024B463194A4196DCED7AD3.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/5/D8/QVDS4BTVBMBW1O979BUR7O.uasset'
+[2023.01.09-06.44.06:227][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/1/R6/FGQ1ZOOGKCC22OW3L1V80M
+[2023.01.09-06.44.06:227][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/FGQ1ZOOGKCC22OW3L1V80M6F09C91441AF396EFE0050A94E76D6A7.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/1/R6/FGQ1ZOOGKCC22OW3L1V80M.uasset'
+[2023.01.09-06.44.06:228][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/A/WN/ZN7465ONWQ3UBMIMVOKR50
+[2023.01.09-06.44.06:228][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/ZN7465ONWQ3UBMIMVOKR5087E289F74205CB44EB9ABEB459AA96CB.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/A/WN/ZN7465ONWQ3UBMIMVOKR50.uasset'
+[2023.01.09-06.44.06:230][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/AL/75Q1TR42LXG7D52LLXWCJJ
+[2023.01.09-06.44.06:230][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/75Q1TR42LXG7D52LLXWCJJBD8E23EA4D81442A018E61B1FD834AE9.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/5/AL/75Q1TR42LXG7D52LLXWCJJ.uasset'
+[2023.01.09-06.44.06:231][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/8/KD/NHOCM5ASB1B04BKDBXUGL2
+[2023.01.09-06.44.06:231][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/NHOCM5ASB1B04BKDBXUGL22F779ED247338C154EDCB89935AB3F17.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/8/KD/NHOCM5ASB1B04BKDBXUGL2.uasset'
+[2023.01.09-06.44.06:233][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/YA/GCA9IR4G7XX0U0I6AS42X3
+[2023.01.09-06.44.06:233][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/GCA9IR4G7XX0U0I6AS42X31CF06753461C1233B8D75D9C13C8061B.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/7/YA/GCA9IR4G7XX0U0I6AS42X3.uasset'
+[2023.01.09-06.44.06:234][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/9/ID/QADNH8B9KK1B1MWTU23JA9
+[2023.01.09-06.44.06:234][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/QADNH8B9KK1B1MWTU23JA9B8CB946E410F02B42F001EA4F57E362F.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/9/ID/QADNH8B9KK1B1MWTU23JA9.uasset'
+[2023.01.09-06.44.06:236][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/6/KN/UFYJ7RY0VDB7Z7S8XEXXNX
+[2023.01.09-06.44.06:236][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/UFYJ7RY0VDB7Z7S8XEXXNXAA983F284E77053077527FBBF6A526E7.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/6/KN/UFYJ7RY0VDB7Z7S8XEXXNX.uasset'
+[2023.01.09-06.44.06:239][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/1/GB/ED1TA7J431H885A888QBAX
+[2023.01.09-06.44.06:239][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/ED1TA7J431H885A888QBAX38CA34054103EA990D2E309FE4DAB35F.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/1/GB/ED1TA7J431H885A888QBAX.uasset'
+[2023.01.09-06.44.06:241][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/5V/9NGWTYZO4KCSCUMXUJT9I0
+[2023.01.09-06.44.06:241][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/9NGWTYZO4KCSCUMXUJT9I0E0BE8ED5438A8A4BD609C191EBD3EA39.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/4/5V/9NGWTYZO4KCSCUMXUJT9I0.uasset'
+[2023.01.09-06.44.06:243][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/0/BW/38PEA5R3SCQ4DJH92XXEL0
+[2023.01.09-06.44.06:243][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/38PEA5R3SCQ4DJH92XXEL0B46D4B214CF15BCB5CCC22AB943EB68A.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/0/BW/38PEA5R3SCQ4DJH92XXEL0.uasset'
+[2023.01.09-06.44.06:245][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/A/PL/KWA7W0DBO08IBOSKCTIMEG
+[2023.01.09-06.44.06:245][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/KWA7W0DBO08IBOSKCTIMEG35B7C8D94EB9A2C1EB4134A0D5EB0E22.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/A/PL/KWA7W0DBO08IBOSKCTIMEG.uasset'
+[2023.01.09-06.44.06:247][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/BA/FUEW64I9TE22117JBY04T2
+[2023.01.09-06.44.06:247][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/FUEW64I9TE22117JBY04T2CC7FD0554D1005B8FBD5F59A32D81656.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/7/BA/FUEW64I9TE22117JBY04T2.uasset'
+[2023.01.09-06.44.06:248][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/8/SY/LJI52ES0Y7UV5FKUVLYMJ6
+[2023.01.09-06.44.06:248][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/LJI52ES0Y7UV5FKUVLYMJ662B3B5B64C86659C5679B9B789FC862F.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/8/SY/LJI52ES0Y7UV5FKUVLYMJ6.uasset'
+[2023.01.09-06.44.06:250][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/8/U6/9FC3Z580O8EAS5DTWBBKB0
+[2023.01.09-06.44.06:250][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/9FC3Z580O8EAS5DTWBBKB0175439874B2396DC8DE062AB67D68669.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/8/U6/9FC3Z580O8EAS5DTWBBKB0.uasset'
+[2023.01.09-06.44.06:252][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/KU/21XH64WKH8B2K6I7F89LQU
+[2023.01.09-06.44.06:252][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/21XH64WKH8B2K6I7F89LQU914B74C24A9F4712ABF8CA899184C598.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/2/KU/21XH64WKH8B2K6I7F89LQU.uasset'
+[2023.01.09-06.44.06:254][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/EM/ZBUMYOAJH6TO0HQJVW2X2M
+[2023.01.09-06.44.06:254][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/ZBUMYOAJH6TO0HQJVW2X2MD30EB69F410C781F8AFADD848D5283F9.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/4/EM/ZBUMYOAJH6TO0HQJVW2X2M.uasset'
+[2023.01.09-06.44.06:256][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/E/JJ/FYK234SX70BUT2NE0G5G9Y
+[2023.01.09-06.44.06:256][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/FYK234SX70BUT2NE0G5G9YF2B00F73482B36468C9A299AA26DBC8C.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/E/JJ/FYK234SX70BUT2NE0G5G9Y.uasset'
+[2023.01.09-06.44.06:258][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/7K/5GEPR53RRN7RY6U6JKIFVB
+[2023.01.09-06.44.06:258][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/5GEPR53RRN7RY6U6JKIFVBD5A186BB4126E646C5FADAADF857C575.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/4/7K/5GEPR53RRN7RY6U6JKIFVB.uasset'
+[2023.01.09-06.44.06:260][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/I8/UEV3C8FOOTBWQ4U7WUCQ5Z
+[2023.01.09-06.44.06:260][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/UEV3C8FOOTBWQ4U7WUCQ5ZB080C4C24A60CB07DF14D69B906595A3.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/2/I8/UEV3C8FOOTBWQ4U7WUCQ5Z.uasset'
+[2023.01.09-06.44.06:262][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/8/6B/TU0177PP422NI4GEDFQH3M
+[2023.01.09-06.44.06:262][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/TU0177PP422NI4GEDFQH3MF7316CFF45CE6B7704CBB8872677311F.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/8/6B/TU0177PP422NI4GEDFQH3M.uasset'
+[2023.01.09-06.44.06:264][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/M4/BT7BLLF1EO8W5WF75CS9GA
+[2023.01.09-06.44.06:264][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/BT7BLLF1EO8W5WF75CS9GAB13A63F840488F71C0E1CAB8AD305CD8.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/2/M4/BT7BLLF1EO8W5WF75CS9GA.uasset'
+[2023.01.09-06.44.06:266][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/77/WRP7S22QC0GRWTWLS9LXF4
+[2023.01.09-06.44.06:266][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/WRP7S22QC0GRWTWLS9LXF4A35F92CB422B763CE9376BB4C1F9B68D.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/B/77/WRP7S22QC0GRWTWLS9LXF4.uasset'
+[2023.01.09-06.44.06:268][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/ZD/Q86CPX0C9YED797IWS1DHY
+[2023.01.09-06.44.06:268][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/Q86CPX0C9YED797IWS1DHYDBE55B8F43D41040A73790866CEA767D.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/7/ZD/Q86CPX0C9YED797IWS1DHY.uasset'
+[2023.01.09-06.44.06:270][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/8N/NU2ZBWCUBNX5GJVIVSE07J
+[2023.01.09-06.44.06:270][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/NU2ZBWCUBNX5GJVIVSE07J7F397EB045410FC5F45B7F91F6B03228.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/B/8N/NU2ZBWCUBNX5GJVIVSE07J.uasset'
+[2023.01.09-06.44.06:272][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/IR/38OWU4P27F23UMKGX99WFG
+[2023.01.09-06.44.06:272][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/38OWU4P27F23UMKGX99WFG27D878784D60ACC00938A3914DFB69E8.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/D/IR/38OWU4P27F23UMKGX99WFG.uasset'
+[2023.01.09-06.44.06:274][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/P6/OUV9NOJPJ6DJM0NLDN0KLI
+[2023.01.09-06.44.06:274][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/OUV9NOJPJ6DJM0NLDN0KLIDED0FB1349B71E313D85659E6C94D3D6.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/D/P6/OUV9NOJPJ6DJM0NLDN0KLI.uasset'
+[2023.01.09-06.44.06:276][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/26/NYALG7I6EEVAQNHQOWYO0O
+[2023.01.09-06.44.06:276][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/NYALG7I6EEVAQNHQOWYO0OC59E7352479F5000D02E96A8776DA8E6.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/5/26/NYALG7I6EEVAQNHQOWYO0O.uasset'
+[2023.01.09-06.44.06:278][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/7H/VXLCHFD8T7T5SML8K9OZ7P
+[2023.01.09-06.44.06:278][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/VXLCHFD8T7T5SML8K9OZ7P684A3EC445615BDB99C12F97A52DD86D.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/2/7H/VXLCHFD8T7T5SML8K9OZ7P.uasset'
+[2023.01.09-06.44.06:279][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/A/L1/077Z4KTIDU3B6NDKJ2N0YM
+[2023.01.09-06.44.06:280][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/077Z4KTIDU3B6NDKJ2N0YMA379FA494D285267EC877D9CFC429082.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/A/L1/077Z4KTIDU3B6NDKJ2N0YM.uasset'
+[2023.01.09-06.44.06:282][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/9/UX/U6GCM69W2NIDJEHY1DQZNS
+[2023.01.09-06.44.06:282][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/U6GCM69W2NIDJEHY1DQZNS259F3D774FAFD6B726AAFC90883B1BDD.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/9/UX/U6GCM69W2NIDJEHY1DQZNS.uasset'
+[2023.01.09-06.44.06:284][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/0/84/R8NF626KASE07HRG3QSW9G
+[2023.01.09-06.44.06:284][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/R8NF626KASE07HRG3QSW9G706901A845635E5157643C9354587722.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/0/84/R8NF626KASE07HRG3QSW9G.uasset'
+[2023.01.09-06.44.06:285][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/FH/N5INMPT2UA00TYEQKBR772
+[2023.01.09-06.44.06:285][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/N5INMPT2UA00TYEQKBR7726B2DC06A45F42B1380AFBDA36D8FEA76.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/7/FH/N5INMPT2UA00TYEQKBR772.uasset'
+[2023.01.09-06.44.06:287][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/0W/IRO3PKHES6JJA6EIF8W7IW
+[2023.01.09-06.44.06:287][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/IRO3PKHES6JJA6EIF8W7IW30D5229B49C40344D32E0DB52008C926.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/C/0W/IRO3PKHES6JJA6EIF8W7IW.uasset'
+[2023.01.09-06.44.06:288][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/V7/97WEQOKQQN5DQITDZMHQWR
+[2023.01.09-06.44.06:288][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/97WEQOKQQN5DQITDZMHQWR62F17FD24FC83E5FD292389F598A2FF1.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/7/V7/97WEQOKQQN5DQITDZMHQWR.uasset'
+[2023.01.09-06.44.06:290][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/0/0N/4GAFXWBBJ1BNWD0E51TBXH
+[2023.01.09-06.44.06:290][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/4GAFXWBBJ1BNWD0E51TBXH967A090246C87CA8A8901DB116166318.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/0/0N/4GAFXWBBJ1BNWD0E51TBXH.uasset'
+[2023.01.09-06.44.06:292][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/MT/ZLKTM96EN5FZVKJ8M1AO7Q
+[2023.01.09-06.44.06:292][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/ZLKTM96EN5FZVKJ8M1AO7Q64F775C24AFC1BA55D05AEBB4E10F40F.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/C/MT/ZLKTM96EN5FZVKJ8M1AO7Q.uasset'
+[2023.01.09-06.44.06:294][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/KM/LY6Y0E7MLIMIG4873CGR65
+[2023.01.09-06.44.06:294][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/LY6Y0E7MLIMIG4873CGR659498531D4ACF10183D13DBB116CDBCC7.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/D/KM/LY6Y0E7MLIMIG4873CGR65.uasset'
+[2023.01.09-06.44.06:296][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/0/RW/PG2ZMEX3WNNKNDZO7PWYF2
+[2023.01.09-06.44.06:296][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/PG2ZMEX3WNNKNDZO7PWYF240FFA43C4E38F226699691BF95E1AFDD.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/0/RW/PG2ZMEX3WNNKNDZO7PWYF2.uasset'
+[2023.01.09-06.44.06:298][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/2/CE/C3X3JN568KX4YNSO6XPXQO
+[2023.01.09-06.44.06:298][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/C3X3JN568KX4YNSO6XPXQOD234A003413861F73F5225BCC503AA8E.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/2/CE/C3X3JN568KX4YNSO6XPXQO.uasset'
+[2023.01.09-06.44.06:300][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/6/ER/Q1L9UXCS7YRHAE6RNDX3IA
+[2023.01.09-06.44.06:300][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/Q1L9UXCS7YRHAE6RNDX3IA45C33C994B75255EA4E26B93B6F2C4E6.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/6/ER/Q1L9UXCS7YRHAE6RNDX3IA.uasset'
+[2023.01.09-06.44.06:302][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/6/64/YTSZXZGL8AYOX4FS2K9WB4
+[2023.01.09-06.44.06:302][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/YTSZXZGL8AYOX4FS2K9WB48BF59C30403AFC262CD66EB5CB6F5D1D.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/__ExternalActors__/Maps/FirstPersonMap/6/64/YTSZXZGL8AYOX4FS2K9WB4.uasset'
+[2023.01.09-06.44.06:306][143]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 에셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다. 
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/D0/47PXUBWBUXPV95S4OEQ7HH
+/Game/__ExternalObjects__/Maps/FirstPersonMap/8/U2/QFY08NKGA65C1FFKKJWD8Q
+/Game/__ExternalObjects__/Maps/FirstPersonMap/8/OI/6N75N5Q9KODWEA7ABJPWUU
+/Game/__ExternalObjects__/Maps/FirstPersonMap/A/IA/SDCY67ZNSGN405XENIIBEG
+/Game/__ExternalObjects__/Maps/FirstPersonMap/A/VK/7CAB5Z2EVOSAA4JJ3TQS2K
+/Game/__ExternalObjects__/Maps/FirstPersonMap/9/4B/U9QTX8P49RJG90GOQ91CFD
+/Game/__ExternalObjects__/Maps/FirstPersonMap/3/A2/BUCBBXV7TPIQ4FI5ZBRIYN
+/Game/__ExternalObjects__/Maps/FirstPersonMap/A/28/Z5RJU7YQAAPZ214GRAW9M5
+/Game/__ExternalObjects__/Maps/FirstPersonMap/C/X0/5R0HYIYTW9G7NT4K99MM9C
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/FK/HBLP4LAX21RTH4MFF6O0VU
+/Game/__ExternalActors__/Maps/FirstPersonMap/1/RE/VX0AI6CMC4652Z2CJLADUI
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/8Y/EHGLATHR6SJ8N4BBKSKI1H
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/BE/6UQSM6IJPVR55XAZ5WDHT4
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/2A/700DITQW5XKKJ39X3LPS5V
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/8R/55P3KETBXRBLEBDF3DLJNN
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/D8/QVDS4BTVBMBW1O979BUR7O
+/Game/__ExternalActors__/Maps/FirstPersonMap/1/R6/FGQ1ZOOGKCC22OW3L1V80M
+/Game/__ExternalActors__/Maps/FirstPersonMap/A/WN/ZN7465ONWQ3UBMIMVOKR50
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/AL/75Q1TR42LXG7D52LLXWCJJ
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/KD/NHOCM5ASB1B04BKDBXUGL2
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/YA/GCA9IR4G7XX0U0I6AS42X3
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/ID/QADNH8B9KK1B1MWTU23JA9
+/Game/__ExternalActors__/Maps/FirstPersonMap/6/KN/UFYJ7RY0VDB7Z7S8XEXXNX
+/Game/__ExternalActors__/Maps/FirstPersonMap/1/GB/ED1TA7J431H885A888QBAX
+/Game/__ExternalActors__/Maps/FirstPersonMap/4/5V/9NGWTYZO4KCSCUMXUJT9I0
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/BW/38PEA5R3SCQ4DJH92XXEL0
+/Game/__ExternalActors__/Maps/FirstPersonMap/A/PL/KWA7W0DBO08IBOSKCTIMEG
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/BA/FUEW64I9TE22117JBY04T2
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/SY/LJI52ES0Y7UV5FKUVLYMJ6
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/U6/9FC3Z580O8EAS5DTWBBKB0
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/KU/21XH64WKH8B2K6I7F89LQU
+/Game/__ExternalActors__/Maps/FirstPersonMap/4/EM/ZBUMYOAJH6TO0HQJVW2X2M
+/Game/__ExternalActors__/Maps/FirstPersonMap/E/JJ/FYK234SX70BUT2NE0G5G9Y
+/Game/__ExternalActors__/Maps/FirstPersonMap/4/7K/5GEPR53RRN7RY6U6JKIFVB
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/I8/UEV3C8FOOTBWQ4U7WUCQ5Z
+/Game/__ExternalActors__/Maps/FirstPersonMap/8/6B/TU0177PP422NI4GEDFQH3M
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/M4/BT7BLLF1EO8W5WF75CS9GA
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/77/WRP7S22QC0GRWTWLS9LXF4
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/ZD/Q86CPX0C9YED797IWS1DHY
+/Game/__ExternalActors__/Maps/FirstPersonMap/B/8N/NU2ZBWCUBNX5GJVIVSE07J
+/Game/__ExternalActors__/Maps/FirstPersonMap/D/IR/38OWU4P27F23UMKGX99WFG
+/Game/__ExternalActors__/Maps/FirstPersonMap/D/P6/OUV9NOJPJ6DJM0NLDN0KLI
+/Game/__ExternalActors__/Maps/FirstPersonMap/5/26/NYALG7I6EEVAQNHQOWYO0O
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/7H/VXLCHFD8T7T5SML8K9OZ7P
+/Game/__ExternalActors__/Maps/FirstPersonMap/A/L1/077Z4KTIDU3B6NDKJ2N0YM
+/Game/__ExternalActors__/Maps/FirstPersonMap/9/UX/U6GCM69W2NIDJEHY1DQZNS
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/84/R8NF626KASE07HRG3QSW9G
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/FH/N5INMPT2UA00TYEQKBR772
+/Game/__ExternalActors__/Maps/FirstPersonMap/C/0W/IRO3PKHES6JJA6EIF8W7IW
+/Game/__ExternalActors__/Maps/FirstPersonMap/7/V7/97WEQOKQQN5DQITDZMHQWR
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/0N/4GAFXWBBJ1BNWD0E51TBXH
+/Game/__ExternalActors__/Maps/FirstPersonMap/C/MT/ZLKTM96EN5FZVKJ8M1AO7Q
+/Game/__ExternalActors__/Maps/FirstPersonMap/D/KM/LY6Y0E7MLIMIG4873CGR65
+/Game/__ExternalActors__/Maps/FirstPersonMap/0/RW/PG2ZMEX3WNNKNDZO7PWYF2
+/Game/__ExternalActors__/Maps/FirstPersonMap/2/CE/C3X3JN568KX4YNSO6XPXQO
+/Game/__ExternalActors__/Maps/FirstPersonMap/6/ER/Q1L9UXCS7YRHAE6RNDX3IA
+/Game/__ExternalActors__/Maps/FirstPersonMap/6/64/YTSZXZGL8AYOX4FS2K9WB4
+[2023.01.09-06.44.06:312][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.09-06.44.06:315][143]LogSavePackage: Moving output files for package: /Game/Maps/FirstPersonMap
+[2023.01.09-06.44.06:315][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/FirstPersonMap18E5299B4056A8429779939CD1B4DA88.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/Maps/FirstPersonMap.umap'
+[2023.01.09-06.44.06:331][143]LogFileHelpers: Saving map 'FirstPersonMap' took 0.146
+[2023.01.09-06.44.06:332][143]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.01.09-06.44.06:333][143]LogSavePackage: Moving '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Saved/FirstPersonMap337E2D6E4421E00DEEFC7B9DA40C44B9.tmp' to '../../../../../../Users/STL/Documents/Unreal Projects/UE_PaintShooter_MultiPlay/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2023.01.09-06.44.06:344][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.09-06.44.06:350][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.09-06.44.06:355][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.09-06.44.06:380][143]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ObjectRedirector /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_RifleCharacter.BP_RifleCharacter 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: World /Game/Maps/FirstPersonMap.FirstPersonMap 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: WorldDataLayers /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_6C02BB50-4B69D1F3-D7A624B1-30C18E5B 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_9AEEADCB-4DC6C647-D6E7C0B4-EDA1744F 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_275232DB-4A90E8B2-799B29BD-69C59B9E 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_D00C3F32-4D055BED-943FA6B0-235C7FA2 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_5710F103-4B6DC7FB-D588718E-283EB93C 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_0C5AB369-45998C19-C9EA9283-402A8E02 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_98EA6984-416B46BD-4E6349A7-D9A13307 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: ActorFolder /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ActorFolder_UID_0BA5F0A0-4EADB18E-70D5B180-D08FA34B 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_13 유효성 검사 중
+[2023.01.09-06.44.06:380][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_26 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: ExponentialHeightFog /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ExponentialHeightFog_0 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: VolumetricCloud /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.VolumetricCloud_0 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: DirectionalLight /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_1 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_25 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_12 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_23 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: TextRenderActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TextRenderActor_1 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: BP_Enemy_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_40B076DA4655A04E01_1473154690 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: ObjectRedirector /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: ObjectRedirector /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.Default__BP_FirstPersonGameMode_C 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: ObjectRedirector /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: BP_Canvas_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CanvasHIt_C_UAID_40B076DA4655915501_1982148442 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: BP_Enemy_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_40B076DA4655A04E01_1462505688 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: WorldPartitionMiniMap /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_42 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/FirstPersonMap_BuiltData.FirstPersonMap_BuiltData 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Complete.BP_Complete 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: Blueprint /Game/FPWeapon/BP_BallRifle.BP_BallRifle 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: ObjectRedirector /Game/FirstPerson/Maps/FirstPersonMap.Default__FirstPersonMap_C 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: ObjectRedirector /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap_C 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: BP_BallRifle_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_33 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: SkyLight /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_34 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_17 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_21 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_22 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_41 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: BP_Enemy_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_40B076DA4655A04E01_1469170689 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_14 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: PlayerStart /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_0 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_18 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_19 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_32 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_31 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_16 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_37 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_35 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_10 유효성 검사 중
+[2023.01.09-06.44.06:381][143]LogContentValidation: Display: BP_Enemy_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Enemy_C_UAID_40B076DA46559D4E01_1399040159 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_28 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_27 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_36 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: Blueprint /Game/Projectile/SprayPaint/BP_ShotgunPaint.BP_ShotgunPaint 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: Blueprint /Game/FPWeapon/BP_SprayRifle.BP_SprayRifle 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: Blueprint /Game/Projectile/SprayPaint/BP_SprayPaint.BP_SprayPaint 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: BP_SprayRifle_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PaintRifle_C_UAID_40B076DA4655524E01_1535000959 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: SkyAtmosphere /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyAtmosphere_0 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: PostProcessVolume /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0 유효성 검사 중
+[2023.01.09-06.44.06:382][143]LogContentValidation: Display: StaticMeshActor /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9 유효성 검사 중
+[2023.01.09-06.44.11:344][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.09-06.44.13:937][709]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.09-06.44.17:793][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.09-06.44.18:606][136]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.09-06.44.18:610][136]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.09-06.44.18:675][136]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.065 s
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: 
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 252]
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: Cannot remove redirection from /Game/FirstPerson/Maps/FirstPersonMap.Default__FirstPersonMap_C, it was not registered
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: Stack: 
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94946565d UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff950bac6e5 UnrealEditor-AssetRegistry.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff9284f687d UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff9284f6241 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff927b15868 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff927e356df UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff927e44184 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94b11ba3b UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94b142df6 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94aee4034 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94aec6fc6 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94af402ee UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94af291b1 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94af1d5dc UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97311a92e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff973109247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97311ce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff9731049a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97e29e7e8 USER32.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97e29e229 USER32.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97311e009 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94af4b3c3 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94aeeb49d UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff927f40bbf UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff9284f5b00 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff91e1c4f3f UnrealEditor-AssetTools.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff90712d5a9 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff90712d7be UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff90711986d UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff91ec4c17a UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff91ec45f0f UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff91eca13f0 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff91ec48bb4 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94b11ba3b UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94b142df6 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94aee4034 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94aec6fc6 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94af402ee UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94af291b1 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff94af1d5dc UnrealEditor-Slate.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97311a92e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff973109247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97311ce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff9731049a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97e29e7e8 USER32.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97e29e229 USER32.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97311e148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff624617114 UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff624630d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff624630e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff624633c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff624645564 UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff624648736 UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff97e457614 KERNEL32.DLL!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: [Callstack] 0x00007ff9802a26a1 ntdll.dll!UnknownFunction []
+[2023.01.09-06.44.18:675][136]LogOutputDevice: Error: 
+[2023.01.09-06.44.18:682][136]LogStats:                SubmitErrorReport -  0.000 s
+[2023.01.09-06.44.19:564][136]LogStats:                    SendNewReport -  0.883 s
+[2023.01.09-06.44.19:564][136]LogStats:             FDebug::EnsureFailed -  0.955 s
+[2023.01.09-06.44.19:570][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.01.09-06.44.19:576][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.09-06.44.19:582][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.09-06.44.21:346][324]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.01.09-06.44.21:354][324]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.09-06.44.21:354][324]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.09-06.44.21:354][324]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.09-06.44.21:354][324]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.09-06.44.21:354][324]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.09-06.44.21:354][324]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2023.01.09-06.44.21:355][324]LogWorldPartition: Display: GenerateStreaming took 277 us
+[2023.01.09-06.44.21:355][324]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. ABP_Quinn
+[2023.01.09-06.44.21:355][324]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2023.01.09-06.44.21:358][324]LogPlayLevel: [PlayLevel] Compiling BP_BallRifle before play...
+[2023.01.09-06.44.21:365][324]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.44.21:366][324]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.44.21:367][324]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.44.21:369][324]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.44.21:369][324]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.44.21:370][324]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_BallRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.44.21:383][324]LogPlayLevel: [PlayLevel] Compiling BP_ShotgunPaint before play...
+[2023.01.09-06.44.21:391][324]LogPlayLevel: [PlayLevel] Compiling BP_SprayRifle before play...
+[2023.01.09-06.44.21:398][324]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.44.21:399][324]LogBlueprint: Warning: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] BP_RifleCharacter_C'에서 "FirstPersonMesh" 라는 이름의 변수를 찾을 수 없습니다.
+ FirstPersonMesh 구하기 에 대해 'BP_RifleCharacter_C' 컴파일이 되었는지 확인하세요.
+[2023.01.09-06.44.21:401][324]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.44.21:401][324]LogBlueprint: Error: [AssetLog] C:\Users\STL\Documents\Unreal Projects\UE_PaintShooter_MultiPlay\Content\FPWeapon\BP_SprayRifle.uasset: [Compiler] First Person Mesh  와 연관된 프로퍼티를 찾지 못했습니다.
+[2023.01.09-06.44.21:414][324]LogPlayLevel: [PlayLevel] Compiling BP_SprayPaint before play...
+[2023.01.09-06.44.21:429][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.01.09-06.44.21:429][324]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (4 blueprints)
+[2023.01.09-06.44.21:429][324]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_BallRifle
+[2023.01.09-06.44.21:429][324]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. BP_SprayRifle
+[2023.01.09-06.44.21:430][324]LogCustomDialog: Dialog displayed:
+[2023.01.09-06.44.22:936][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPWeapon/BP_SprayRifle.BP_SprayRifle
+[2023.01.09-06.44.22:937][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.09-06.44.23:882][324]LogSlate: Window '블루프린트 컴파일 오류' being destroyed
+[2023.01.09-06.44.23:979][324]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.09-06.44.24:573][324]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.594 s
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: 
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: 
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: Stack: 
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff938975fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff93898f705 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff9389706aa UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff927a8ebed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff9285cc7f4 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff9285d0cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff9285d05a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff927f6dcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff9288faac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.09-06.44.24:573][324]LogOutputDevice: Error: [Callstack] 0x00007ff6246182f6 UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: [Callstack] 0x00007ff624630d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: [Callstack] 0x00007ff624630e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: [Callstack] 0x00007ff624633c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: [Callstack] 0x00007ff624645564 UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: [Callstack] 0x00007ff624648736 UnrealEditor.exe!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: [Callstack] 0x00007ff97e457614 KERNEL32.DLL!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: [Callstack] 0x00007ff9802a26a1 ntdll.dll!UnknownFunction []
+[2023.01.09-06.44.24:574][324]LogOutputDevice: Error: 
